@@ -47,6 +47,13 @@ ADMIN_PASSWORD=ChangeMe123!
 
 ---
 
+🧪 Postman — How I Tested
+
+Included Postman collection: endpoints grouped by resource (Auth, Users, Products, Orders, Cart).
+Tests written for status codes, token validation, and response structure.
+
+---
+
 ## 🚀 How to Run Locally
 
 ```bash
@@ -112,9 +119,3 @@ GET /api/faq — list frequently asked questions
 
 Use Authorization: Bearer <token> header for protected routes.
 
----
-
-🧪 Postman — How I Tested
-
-Included Postman collection: endpoints grouped by resource (Auth, Users, Products, Orders, Cart).
-Tests written for status codes, token validation, and response structure.

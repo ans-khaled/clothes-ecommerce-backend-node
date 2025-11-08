@@ -1,4 +1,4 @@
-# E-commerce Backend (Node.js)
+# Clothes E-commerce Backend (Node.js)
 
 **Description**  
 A production-oriented E-commerce backend built with Node.js. Features a modular folder structure, RESTful routes for products, categories, cart, orders, users, and admin seeding. Demonstrates skills in backend development, API testing with Postman, authentication & authorization using JWT, file uploads, and security best practices.
@@ -118,4 +118,5 @@ POST /api/contact — submit contact/message
 GET /api/faq — list frequently asked questions
 
 Use Authorization: Bearer <token> header for protected routes.
+
 
